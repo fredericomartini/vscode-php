@@ -1,12 +1,15 @@
 {
-  "editor.formatOnSave": true,
-  "yaml.format.enable": true,
   "eslint.autoFixOnSave": true,
   "eslint.alwaysShowStatus": true,
   "php-cs-fixer.executablePath": "php-cs-fixer",
   "php-cs-fixer.config": "php-cs-fixer.php",
   "php-cs-fixer.onsave": true,
+  "editor.formatOnSave": true,
   "php.suggest.basic": false,
+  "phpcs.enable": true,
+  "phpcs.standard": "PSR2",
+  "phpcs.showWarnings": true,
+  "yaml.format.enable": true,
   "php.executablePath": "/usr/bin/php",
   "prettier.tslintIntegration": false,
   "[json]": {
